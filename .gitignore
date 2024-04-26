@@ -1,0 +1,7 @@
+Debug/
+ipch/
+*.opensdf
+*.sdf
+*.vcproj
+UpgradeLog.XML
+_UpgradeReport_Files/
